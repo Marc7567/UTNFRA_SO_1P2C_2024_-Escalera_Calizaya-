@@ -32,7 +32,7 @@ sudo chmod 775 Examenes-UTN/profesores
 echo "llamamos a los archivos validar"
 for i 1 2 3 4; do
  if [$i -eq 4]; then
-  sudo cat Examenes-UTN/profesores/validar.txt
+  sudo -su -c "whoami > /Examenes-UTN/profesores/validar.txt" p1c2_2024_P1
  else
-  sudo cat Examenes-UTN/alumnos_$i/validar.txt
+  sudo -su -c "whoami > /Examenes-UTN/alumnos_$i/validar.txt" p1c2_2024_A$i
  fi
