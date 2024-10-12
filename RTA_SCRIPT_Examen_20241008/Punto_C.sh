@@ -22,7 +22,6 @@ echo "crear archivo validar.txt con whoami"
 for i in 1 2 3 4; do
    if [$i -eq 4]; then
        whoami > validar.txt | mv validar.txt /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/Examenes-UTN/profesores
-   
    else
        whoami > validar.txt | mv validar.txt /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/Examenes-UTN/alumnos_$i
    fi
@@ -37,6 +36,6 @@ for i in 1 2 3 4; do
    if [$i -eq 4]; then
        sudo -su -c "whoami > /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/Examenes-UTN/profesores/validar.txt" p1c2_2024_P1
    else
-       sudo -su -c "whoami > /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-//Examenes-UTN/alumnos_$i/validar.txt" p1c2_2024_A$i
+       sudo -su -c "whoami > /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/Examenes-UTN/alumnos_$i/validar.txt" p1c2_2024_A$i
    fi
 done

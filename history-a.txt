@@ -1148,3 +1148,169 @@ ls
 cd UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/
 cp /home/vagrant/.bash_history history-a.txt 
 history -a
+cp /home/vagrant/.bash_history history-a.txt 
+ls
+cat history-a.txt 
+clear
+sudo git add .
+sudo git commit -m "10mo y posible ultimo commit"
+git push
+clear
+cd ..
+exit
+git commit 
+clear
+tree
+ls
+cd repogit/
+ls
+tree
+cd 
+cd ..
+pwd
+ls -l
+cd p1c2_2024_A1
+sudo cd p1c2_2024_A1
+cd
+pwd
+exit
+cd repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/
+cd RTA_SCRIPT_Examen_20241008/
+tree
+./Punto_A.sh 
+cd ..
+tree
+pwd
+cd RTA_SCRIPT_Examen_20241008/
+vim Punto_A.sh 
+ls
+rm Examenes-UTN/
+rm -r Examenes-UTN/
+ls
+./Punto_A.sh 
+tree
+rm -r Examenes-UTN/
+tree
+vim Punto_A.sh 
+pwd
+vim Punto_A.sh 
+tree
+./Punto_A.sh 
+cd repogit/
+cd UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/RTA_SCRIPT_Examen_20241008/
+tree
+rm -r Examenes-UTN/
+tree
+cd ..
+tree
+cd ..
+tree
+rm -r Examenes-UTN/
+tree
+cd UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/
+cd RTA_SCRIPT_Examen_20241008/
+tree
+vim Punto_A.sh 
+./Punto_B.sh 
+vim Punto_B.sh 
+./Punto_B.sh 
+vim Punto_B.sh 
+./Punto_B.sh 
+vim Punto_B.sh 
+clear
+vim Punto_B.sh 
+./Punto_B.sh 
+vim Punto_B.sh 
+./Punto_B.sh 
+vim Punto_B.sh 
+clear
+./Punto_B.sh 
+vim Punto_B.sh 
+./Punto_B.sh 
+./Punto_C.sh 
+vim Punto_C.sh 
+./Punto_C.sh 
+vim Punto_C.sh 
+./Punto_C.sh 
+vim Punto_C.sh 
+sudo -su -c "whoami > /Examenes-UTN/alumnos_1/validar1.txt" p1c2_2024_A1
+sudo -su "whoami > /Examenes-UTN/alumnos_1/validar1.txt" p1c2_2024_A1
+sudo -su -c cat /Examenes-UTN/alumnos_1/validar1.txt" p1c2_2024_A1
+s
+cat
+d
+s
+cd repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/
+sudo -su -c cat /Examenes-UTN/alumnos_1/validar1.txt p1c2_2024_A1
+tree
+cd Examenes-UTN/
+ls
+rm -r alumnos_4
+tree
+cd ..
+sudo cat Examenes-UTN/alumnos_1/validar.txt p1c2_2024_A1
+sudo -c cat Examenes-UTN/alumnos_1/validar.txt p1c2_2024_A1
+sudo -su cat Examenes-UTN/alumnos_1/validar.txt p1c2_2024_A1
+sudo -su -cat Examenes-UTN/alumnos_1/validar.txt p1c2_2024_A1
+sudo -su -c Examenes-UTN/alumnos_1/validar.txt p1c2_2024_A1
+sudo cat -su Examenes-UTN/alumnos_1/validar.txt p1c2_2024_A1
+sudo cat Examenes-UTN/alumnos_1/validar.txt p1c2_2024_A1
+sudo cat Examenes-UTN/alumnos_1/validar.txt
+sudo -su Examenes-UTN/alumnos_1/validar.txt p1c2_2024_A1
+sudo -su -c Examenes-UTN/alumnos_1/validar.txt p1c2_2024_A1
+ls -l
+cd Examenes-UTN/
+ls -l
+sudo -su -c Examenes-UTN/alumnos_1/validar.txt p1c2_2024_A1
+sudo cat -su  Examenes-UTN/alumnos_1/validar.txt p1c2_2024_A1
+sudo cat -su Examenes-UTN/alumnos_1/validar.txt p1c2_2024_A1
+sudo -su -c "whoami > /alumnos_1/validar.txt" p1c2_2024_A1
+sudo -su -c "whoami > /alumnos_1/validarq.txt" p1c2_2024_A1
+sudo -su -c "whoami > /alumnos_1/validar.txt" p1c2_2024_A1
+clear
+sudo cat alumnos_1/validar.txt
+sudo cat alumnos_2/validar.txt
+sudo cat alumnos_3/validar.txt
+sudo cat alumnos_4/validar.txt
+sudo cat profesores/validar.txt
+cd ..
+ls
+cd RTA_SCRIPT_Examen_20241008/
+ls -l
+./Punto_D.sh 
+tree
+cd ..
+tree
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+cd RTA_SCRIPT_Examen_20241008/
+./Punto_D.sh 
+vim Punto_D.sh 
+./Punto_D.sh 
+./Punto_E.sh 
+./Punto_F.sh 
+vim Punto_F.sh 
+./Punto_F.sh 
+./Punto_E.sh 
+./Punto_F.sh 
+cd ..
+cd repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/
+tree
+sudo cat Examenes-UTN/alumnos_1/validar.txt
+rm -r Estructura_Asimetrica/
+tree
+cp $HOME/.bash_history hisory-a.txt
+cat hisory-a.txt
+cd ..
+cd UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/
+sudo git add .
+sudo git commit -m "commit de conprobacion y correcion de errores"
+git push
+clear
+su p1c2_2024_A1
+cd repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/
+tree
+rm -r hisory-a.txt 
+rm -r history-a.txt 
+cp home/.bash_history history-a.txt
+cp home/vagrant/.bash_history history-a.txt
+cp home/vagrant/repogit/.bash_history history-a.txt
