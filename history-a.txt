@@ -1314,3 +1314,38 @@ rm -r history-a.txt
 cp home/.bash_history history-a.txt
 cp home/vagrant/.bash_history history-a.txt
 cp home/vagrant/repogit/.bash_history history-a.txt
+cp $HOME/.bash_history history-a.txt
+ls
+cd RTA_SCRIPT_Examen_20241008/
+./Punto_A.sh 
+./Punto_B.sh 
+./Punto_C.sh 
+vim Punto_C.sh 
+./Punto_C.sh 
+vim Punto_C.sh 
+./Punto_C.sh 
+clear
+./Punto_C.sh 
+vim Punto_C.sh 
+sudo -su -c echo "$(whoami > /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/Examenes-UTN/profesores/validar.txt)" p1c2_2024_P1
+sudo cat -su -c echo "$(whoami > /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/Examenes-UTN/profesores/validar.txt)" p1c2_2024_P1 
+sudo -su -c echo "$(cat /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/Examenes-UTN/profesores/validar.txt)" p1c2_2024_P1 
+sudo -su -c $(cat /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/Examenes-UTN/profesores/validar.txt) p1c2_2024_P1
+sudo -su -c cat /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/Examenes-UTN/profesores/validar.txt p1c2_2024_P1
+-su -c cat /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/Examenes-UTN/profesores/validar.txt p1c2_2024_P1
+su -c cat /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/Examenes-UTN/profesores/validar.txt p1c2_2024_P1
+su -c /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_-Escalera_Calizaya-/Examenes-UTN/profesores/validar.txt p1c2_2024_P1
+./Punto_D.sh 
+./Punto_E.sh 
+cd..
+cd ..
+tree
+rm -r Estructura_Asimetrica/
+tree
+cd RTA_SCRIPT_Examen_20241008/
+tree
+rm -r Examenes-UTN/
+cd ..
+sudo got add .
+sudo git add .
+sudo git commit -m "correcion de algunos errores"
